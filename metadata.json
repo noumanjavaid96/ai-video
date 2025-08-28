@@ -1,0 +1,9 @@
+{
+  "name": "AI Video Call Assistant",
+  "description": "An intelligent assistant that joins your video calls to provide real-time transcription, summaries, and talking points. It connects to a video session and uses AI to analyze the conversation, helping you stay on track and capture key outcomes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
